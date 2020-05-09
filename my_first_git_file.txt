@@ -1,0 +1,10 @@
+#sample file
+
+this is a sample file:
+-first
+-second
+-third
+
+##actions
+1.do the math
+2.run the program
